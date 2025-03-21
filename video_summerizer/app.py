@@ -11,13 +11,13 @@ import tempfile
 from dotenv import load_dotenv
 load_dotenv()
 
-API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY = st.secrets["GOOGLE_API_KEY"]
 if API_KEY:
     genai.configure(api_key=API_KEY)
 
 
 st.set_page_config(
-    page_title="Video SUmmerizer",
+    page_title="Video Summerizer",
     page_icon="📽️",
     layout='wide'
 )
