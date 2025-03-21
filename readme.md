@@ -23,7 +23,7 @@ An AI-powered application that summarizes and analyzes video content using Googl
 
 ## 🏗️ Tech Stack  
 - [Streamlit](https://streamlit.io/) - UI and Interaction  
-- [Google Gemini AI](https://deepmind.google/) - Language & Vision Analysis  
+- [Google Gemini AI](https://deepmind.google/) - Language & Vision Analysis     
 - [DuckDuckGo Search Tool](https://duckduckgo.com/) - Web Search Enhancer  
 - [phi-agent](https://pypi.org/project/phi/) - Multi-Agent Orchestration  
 - Python 3.9+
@@ -34,8 +34,8 @@ An AI-powered application that summarizes and analyzes video content using Googl
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/video-summarizer-gemini.git
-cd video-summarizer-gemini
+git clone https://github.com/Ram2049/Video_summerizer
+cd Video_summerizer
 ```
 
 ### 2. Install dependencies  
