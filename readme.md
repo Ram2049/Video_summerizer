@@ -2,7 +2,7 @@
 # 🎥 Phi Multi-Modal AI Agent: Video Summarizer & Analyzer  
 Powered by **Google Gemini AI** + **DuckDuckGo Search** + **Streamlit**  
 
-An AI-powered application that summarizes and analyzes video content using Google's Gemini AI model. This tool allows users to upload videos, ask contextual questions, and receive comprehensive AI-generated insights enhanced by real-time web research.
+An AI-powered application that summarizes and analyzes video content using Google's Gemini AI model. This tool allows users to upload videos, ask contextual questions, and receive comprehensive AI-generated insights enhanced by real-time web research and RAG to fetch data.
 
 ## 🚀 Features  
 - 📂 **Upload Video Files** (`mp4`, `mov`, `avi`)  
@@ -17,8 +17,8 @@ An AI-powered application that summarizes and analyzes video content using Googl
 ---
 
 ## 📸 Demo  
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Demo+Video+Summarizer+App)
-
+![App Screenshot]("asset\Screenshot 2025-03-21 150245.png")
+![App Screenshot]("asset\Screenshot 2025-03-21 150334.png")
 ---
 
 ## 🏗️ Tech Stack  
