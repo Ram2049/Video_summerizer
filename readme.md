@@ -17,8 +17,8 @@ An AI-powered application that summarizes and analyzes video content using Googl
 ---
 
 ## 📸 Demo  
-![App Screenshot]("asset\Screenshot 2025-03-21 150245.png")
-![App Screenshot]("asset\Screenshot 2025-03-21 150334.png")
+![App Screenshot]("[asset\Screenshot 2025-03-21 150245.png](https://videosummerizer-u2jcadirzsonxmaogqzezn.streamlit.app/)")
+
 ---
 
 ## 🏗️ Tech Stack  
